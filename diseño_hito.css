@@ -1,0 +1,17 @@
+
+body{
+    background-color: beige;
+    text-align: center;
+}
+.centrado{
+text-align: center;
+}
+ol.centrado{
+    display: inline-block;
+    text-align: left;
+}
+.buttoncolor{
+    background-color: aquamarine;
+    padding: 10px 20px;
+    text-align: center;
+}
